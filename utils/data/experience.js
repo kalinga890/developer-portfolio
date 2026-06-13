@@ -1,20 +1,11 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Software Engineer I',
-    company: "Teton Private Ltd.",
-    duration: "(Jan 2022 - Present)"
+    title: 'Application Developer Intern',
+    company: 'Rooman Technologies',
+    location: 'Bengaluru, India',
+    period: 'Oct 2024 – Apr 2025',
+    description:
+      'Certified Application Developer – Web & Mobile. Built real-time chat applications and AI-powered web solutions. Worked across web, mobile, and backend development with strong focus on scalability, security, and user experience.',
   },
-  {
-    id: 2,
-    title: "FullStack Developer",
-    company: "Fiverr (freelance)",
-    duration: "(Jun 2021 - Jan 2022)"
-  },
-  {
-    id: 3,
-    title: "Self Employed",
-    company: "Code and build something in everyday.",
-    duration: "(Jan 2018 - Present)"
-  }
-]
+];

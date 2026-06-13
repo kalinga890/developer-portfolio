@@ -1,20 +1,16 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    institution: 'Government Engineering College, Gangavathi',
+    degree: 'Bachelor of Engineering — Computer Science',
+    period: 'Dec 2021 – June 2025',
+    result: 'CGPA: 8.08',
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    institution: 'Pupil Tree PU College, Ballari',
+    degree: 'PUC — Science (PCMB)',
+    period: 'July 2020 – Aug 2021',
+    result: 'Percentage: 88%',
   },
-  {
-    id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
-  }
-]
+];
